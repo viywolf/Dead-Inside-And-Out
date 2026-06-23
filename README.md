@@ -7,3 +7,5 @@ To ensure you're not completely clueless, please make sure you complete the foll
 
 - Download [Ren'py](https://www.renpy.org/latest.html)
 - Read Ren'py [Document](https://www.renpy.org/doc/html)
+
+---
